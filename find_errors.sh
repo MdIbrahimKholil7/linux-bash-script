@@ -3,7 +3,7 @@
 file="./logger.log"
 
 if [ -f $file ]; then
-	echo "File exit working reast of the work"
+	echo "File exit working rest of the work"
 else 
 	echo "File not exit. Terminatting process"
 fi
